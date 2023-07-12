@@ -135,7 +135,6 @@ section:nth-child(2){
 .discovery{
     display: flex;
     justify-content: space-between;
-    /* column-gap: 20px; */
     align-items: center;
 }
 
